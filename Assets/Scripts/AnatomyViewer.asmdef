@@ -2,7 +2,8 @@
     "name": "AnatomyViewer",
     "rootNamespace": "AnatomyViewer",
     "references": [
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
